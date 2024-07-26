@@ -1,2 +1,2 @@
 # Sales-and-Ecom-Dashboard
-The dashboard is fully customizable. Users can modify existing visualizations, create new charts and graphs, and adjust the layout to suit their specific requirements. Advanced users can also integrate additional data sources and perform more complex data transformations.
+The Sales and E-commerce Dashboard is a comprehensive analytical tool designed in Power BI to provide actionable insights into retail sales and e-commerce performance. This dashboard consolidates data from various sources to offer a holistic view of key business metrics, helping decision-makers track performance, identify trends, and optimize strategies.
